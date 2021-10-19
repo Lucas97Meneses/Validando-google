@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver.SystemProperty"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.When"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeOptions"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.opera.OperaDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.SendKeysAction"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicRootPaneUI"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.browserlaunchers.locators.GoogleChromeLocator"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="io.cucumber.messages.internal.com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="ru.yandex.qatools.ashot.Screenshot"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="io.cucumber.junit.Cucumber"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+    <fullyQualifiedTypeName name="elementos.Elementos"/>
+    <fullyQualifiedTypeName name="io.cucumber.junit.CucumberOptions"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="pages.Metodos"/>
+</qualifiedTypeNameHistroy>

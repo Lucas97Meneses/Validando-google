@@ -1,0 +1,15 @@
+package pages;
+
+import elementos.Elementos;
+
+public class E2etreinamentos {
+	Metodos metodos = new Metodos();
+	Elementos el = new Elementos();
+
+	public void pesquisar() {
+		metodos.escrever(el.getPesquisar(), "escrevendo ");
+		metodos.submit(el.getPesquisar());
+
+	}
+
+}
