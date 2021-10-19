@@ -1,0 +1,17 @@
+package primeiro.progeto;
+
+public class Variaveis {
+	
+	public static void main(String[] args) {
+		
+		int numeroInteriro;
+		double numeroQuebrado;
+		boolean verdadeiroFalso;
+		
+		System.out.println("Variavel do tipo int pode receber" + numeroInteriro);
+		System.out.println("Variavel do tipo double pode receber" + numeroQuebrado);
+		System.out.println("Variavel do tipo boolean pode receber" + verdadeiroFalso);
+		
+	}
+
+}

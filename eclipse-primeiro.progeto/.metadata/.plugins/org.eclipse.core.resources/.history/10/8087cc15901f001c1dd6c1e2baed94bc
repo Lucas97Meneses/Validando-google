@@ -1,0 +1,9 @@
+package primeiro.progeto;
+
+public class MetodoRetorno {
+	
+	public String nome () {
+		
+	}
+
+}

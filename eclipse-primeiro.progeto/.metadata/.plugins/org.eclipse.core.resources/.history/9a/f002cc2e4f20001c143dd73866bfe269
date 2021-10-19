@@ -1,0 +1,15 @@
+package encapsulamento;
+
+public class Caixa {
+
+	public static void main(String[] args) {
+
+		ContaCorrente cc = new ContaCorrente();
+		
+		System.out.println("Antes do GetSaldo" + cc.setSaldo());
+		
+		cc.setSaldo(100);
+		
+	}
+
+}

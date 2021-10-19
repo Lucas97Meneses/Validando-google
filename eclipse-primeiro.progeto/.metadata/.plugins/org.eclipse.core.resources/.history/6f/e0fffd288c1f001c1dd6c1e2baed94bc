@@ -1,0 +1,12 @@
+package primeiro.progeto;
+
+public class UsandoWhile {
+
+	public static void main(String[] args) {
+		
+		int numero1 = 10;
+		int numero2 = 20;
+
+	}
+
+}

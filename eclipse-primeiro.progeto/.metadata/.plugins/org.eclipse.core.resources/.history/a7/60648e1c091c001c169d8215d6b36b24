@@ -1,0 +1,13 @@
+package primeiro.progeto;
+
+public class TerceiroPrograma {
+
+	public static void main(String[] args) {
+
+		String nome = "E2ETreinamentos";
+		String curso = "Automacao de Testes";
+		System.out.println(nome);
+		
+	}
+
+}

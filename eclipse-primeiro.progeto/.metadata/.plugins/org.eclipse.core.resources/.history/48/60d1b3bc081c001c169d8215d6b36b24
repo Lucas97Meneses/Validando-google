@@ -1,0 +1,12 @@
+package primeiro.progeto;
+
+public class TerceiroPrograma {
+
+	public static void main(String[] args) {
+
+		String nome = "E2ETreinamentos";
+		System.out.println(nome);
+		
+	}
+
+}

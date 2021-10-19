@@ -1,0 +1,12 @@
+package primeiro.progeto;
+
+public class MetodoAtributo {
+	
+	public String (String nome) {
+		
+		return nome;
+		
+	}
+	
+
+}

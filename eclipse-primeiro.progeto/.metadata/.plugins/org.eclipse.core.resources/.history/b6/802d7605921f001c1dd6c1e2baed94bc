@@ -1,0 +1,19 @@
+package primeiro.progeto;
+
+public class MetodoAtributo {
+	
+	public String digiteUmNome (String nome) {
+		
+	System.out.println("O nome difitado é " + nome);
+		
+		return nome;
+		
+	}
+	
+	public void didgiteSuaIdade (int idade) {
+		
+		System.out.println();
+		
+	}
+
+}

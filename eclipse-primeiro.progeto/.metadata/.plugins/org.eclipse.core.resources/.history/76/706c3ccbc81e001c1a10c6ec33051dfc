@@ -1,0 +1,53 @@
+package primeiro.progeto;
+
+public class SwitchCaseComIf {
+
+	public static void main(String[] args) {
+		int opcao1 = 2;
+		boolean credito = true;
+		int valorDopriduto = 5000;
+		int saldoDoCliente = 9000;
+
+		switch (opcao1) {
+		case 1:
+			System.out.println("Voce escolher a opção a vista ");
+			if (valorDopriduto >= saldoDoCliente) {
+				System.out.println("Compra realizada com sucesso.");
+				
+			}
+			break;
+
+		}
+		switch (opcao1) {
+		case 2:
+			System.out.println("Voce escolher a opção de credito");
+			
+			if (saldoDoCliente >= valorDopriduto) {
+				int taxa = 100;
+				valorDopriduto += taxa;
+				System.out.println("Compra realizada com sucesso no valor de R$ " + valorDopriduto);
+				valorDopriduto -= saldoDoCliente;
+				System.out.println("Saldo ataual é de: R$ ");
+					
+			} else {
+				System.out.println("Compra negada");
+				
+			}
+			break;
+			
+
+		}
+		switch (opcao1) {
+		case 3:
+			System.out.println("Voce escolher a opção de boleto ");
+			
+			if (valorDopriduto >= saldoDoCliente) {
+				System.out.println("Compra realizada com sucesso.");
+				
+			}
+			break;
+
+		}
+	}
+
+}

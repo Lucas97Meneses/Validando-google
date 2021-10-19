@@ -1,0 +1,22 @@
+package primeiro.progeto;
+
+public class AtribuindoUmValor {
+
+	public static void main(String[] args) {
+		
+		int numeroInteiro;
+		double numeroQuebrado;
+		boolean verdadeiroFalso;
+		
+		numeroInteiro = 10;
+		System.out.println("Numero inteiro recebe " + numeroInteiro);
+		
+		numeroInteiro = 20;
+		System.out.println("Numero interiro recece " + numeroInteiro);
+		
+		numeroInteiro = 30;
+		System.out.println("Numero interiro recebe " + numeroInteiro);
+
+	}
+
+}

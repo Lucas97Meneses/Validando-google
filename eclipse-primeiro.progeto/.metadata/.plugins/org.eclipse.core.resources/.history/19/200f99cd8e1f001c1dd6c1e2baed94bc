@@ -1,0 +1,11 @@
+package primeiro.progeto;
+
+public class ExecutarMetodo {
+
+	public static void main(String[] args) {
+		
+		MetodoVazio metodo = new MetodoVazio();
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package encapsulamento;
+
+public class Caixa {
+
+	public static void main(String[] args) {
+
+		ContaCorrente cc = new ContaCorrente();
+		
+	}
+
+}

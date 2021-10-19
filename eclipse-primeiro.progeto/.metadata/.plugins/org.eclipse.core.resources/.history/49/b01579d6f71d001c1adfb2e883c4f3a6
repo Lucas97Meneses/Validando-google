@@ -1,0 +1,13 @@
+package primeiro.progeto;
+
+public class Variaveis {
+	
+	public static void main(String[] args) {
+		
+		int numeroInteriro;
+		double numeroQuebrado;
+		boolean verdadeiroFalso;
+		
+	}
+
+}

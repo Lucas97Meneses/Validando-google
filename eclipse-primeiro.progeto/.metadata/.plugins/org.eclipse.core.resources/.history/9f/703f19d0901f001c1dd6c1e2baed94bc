@@ -1,0 +1,14 @@
+package primeiro.progeto;
+
+public class MetodoRetorno {
+	
+	String nome = "Lucas";
+	
+	public String nome() {
+		
+		System.out.println("Parabens voce fez login com sucesso " + nome);
+		return nome;
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package percorrer.string;
+
+public class PercorrerString {
+
+	public static void main(String[] args) {
+		
+		String menssagem = "Eu amo qualidade de software";
+		char letra = 'a';
+
+	}
+
+}

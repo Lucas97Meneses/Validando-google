@@ -1,0 +1,13 @@
+package primeiro.progeto;
+
+public class AtribuindoUmValor {
+
+	public static void main(String[] args) {
+		
+		int numeroInteiro;
+		double numeroQuebrado;
+		boolean verdadeiroFalso;
+
+	}
+
+}

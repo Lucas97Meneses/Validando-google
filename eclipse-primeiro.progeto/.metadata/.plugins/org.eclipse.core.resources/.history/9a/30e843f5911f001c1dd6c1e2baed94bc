@@ -1,0 +1,15 @@
+package primeiro.progeto;
+
+public class MetodoAtributo {
+	
+	public String digiteUmNome (String nome) {
+		
+		return nome;
+		
+	}
+	
+	public void didgiteSuaIdade (int idade) {
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package primeiro.progeto;
+
+public class AprendendoIf {
+
+	public static void main(String[] args) {
+
+		int idadePermitida = 18;
+		int minhaIdade = 24;
+
+		if (minhaIdade >= idadePermitida) {
+			System.out.println("Voce pode tirar habilitacao, porque sua idade è " + minhaIdade);
+		} else {
+			System.out.println("Voce não pode tirar habilitacão, porque sua idade è " + minhaIdade);
+		}
+	}
+}
