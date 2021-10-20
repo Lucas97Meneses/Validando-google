@@ -1,9 +1,0 @@
-package primeiro.progeto;
-
-public class MetodoVazio {
-	
-	public void mensagem () {
-		
-	}
-
-}

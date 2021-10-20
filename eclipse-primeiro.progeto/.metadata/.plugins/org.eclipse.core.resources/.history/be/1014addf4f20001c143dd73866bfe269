@@ -1,9 +1,0 @@
-package encapsulamento;
-
-public class ContaCorrente {
-	
-	private double saldo = 0;
-		
-	
-
-}
